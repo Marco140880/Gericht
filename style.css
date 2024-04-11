@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    background-image: url('https://plus.unsplash.com/premium_photo-1675103909059-03622a545e04?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHBpenphJTIwbWFyZ2hlcml0YXxlbnwwfHwwfHx8MA%3D%3D'); 
+    background-size: cover;
+    background-position: center;
+    color: black;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.recipe {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.recipe h2 {
+    color: #333;
+}
+
+.recipe h3 {
+    color: #666;
+}
+
+.recipe ul, .recipe ol {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.recipe li {
+    margin-bottom: 5px;
+}
